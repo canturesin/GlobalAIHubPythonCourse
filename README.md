@@ -12,14 +12,6 @@
 canturesinFinalProject
 ![](code/canturesinFinalProject.ipynb)
 
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
----
-
 ### Certification
 ![](img/Py_Certificate.png)
 
