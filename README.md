@@ -12,5 +12,5 @@ canturesinFinalProject
 ![](code/canturesinFinalProject.ipynb)
 
 ### Certification
-![](img/Py_Certificate.png)
+![](img/800240681378.png)
 
